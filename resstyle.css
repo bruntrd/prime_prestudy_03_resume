@@ -1,0 +1,74 @@
+
+.fiddlesticks {
+	width: 200px;
+	height: 100px;
+	margin: auto;
+}
+
+html, body, h1, h2, h3, h4, ul, ol, li, p, a {
+  padding: 0;
+  border: 0;
+  margin: 0;
+}
+
+body {
+	background-color: white;
+	background-image: url(http://symposium.ucsc.lk/wp-content/uploads/2014/03/768-light-gray-gradient-1920x1080-abstract-wallpaper2.jpg);
+}
+#wrap{
+	width:900px;
+	margin: auto;
+}
+
+.header {
+	text-align: center;
+	margin-bottom:15px;
+	padding-top:10px;
+}
+.header p{
+	font-size: 40px;
+	font-family:Lucida,"Helvetica Narrow", Verdana, sans-serif;
+	font-weight:50;
+	border-bottom: 1px;
+	border-style: solid;
+
+}
+.header li{
+	font-size:12px;
+}
+.header ul{
+	display: inline;
+}
+p {
+	font-size:12px;
+	font-family:Lucida, Verdana, sans-serif;
+}
+
+ul {
+	list-style-type: none;
+}
+.categories li{
+	text-align: center;
+	margin-bottom: 15px;
+}
+button { 
+	border:;
+	background-color: white;
+	display:inline-block;
+	font-size: 16px;
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 20px;
+	padding:4px 4px 4px 4px;
+	margin: 0 5px 5px 0;
+	}
+.experience ul {
+	list-style-type: none;
+}
+
+.edu, .exp, .acc, .ski, .act, .int {
+	display:none; 
+}
+
+
+
